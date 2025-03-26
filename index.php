@@ -31,6 +31,8 @@ hello -->
     In commodi, nulla dignissimos iste facilis est repellat vitae. 
     Autem at facilis quibusdam quas! Quibusdam vel mollitia possimus voluptatibus
     placeat dignissimos qui!</p>
+    <p><?php echo "lorem nulla dignissimos iste facilis est repellat vitae.<br>
+    Autem at facilis quibusdam quas! "?></p>
     <script>
       <?php echo 'alert("hello")'; ?>
     </script>
