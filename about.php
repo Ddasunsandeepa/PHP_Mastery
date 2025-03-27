@@ -1,5 +1,6 @@
 <?php 
-require 'index.php';
+include_once 'index.php';
+include_once 'index.php';
 ?>
 <div class="container">
   <h1>About Us</h1>
